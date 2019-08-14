@@ -7,3 +7,7 @@ def square_array(array)
   end  
   return new_array
 end
+
+
+
+def square_another
