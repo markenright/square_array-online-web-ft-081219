@@ -1,4 +1,4 @@
-def square_array2(array)
+def square_array(array)
   # your code here
   new_array = []
   array.each do |number|
@@ -10,7 +10,7 @@ end
 
 
 
-def square_array(array)
+def square_array2(array)
   
   new_array = []
   array.collect do |number|
