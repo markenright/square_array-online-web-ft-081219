@@ -1,4 +1,4 @@
-def square_array(array)
+def square_array2(array)
   # your code here
   new_array = []
   array.each do |number|
@@ -10,4 +10,12 @@ end
 
 
 
-def square_another
+def square_array(array)
+  
+  new_array = []
+  
+  
+  
+  
+  
+end
